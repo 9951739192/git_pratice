@@ -1,2 +1,3 @@
 We are  re-initiating the file1 for practice 
 we are testing the pull operation
+We are testing the merge operations
